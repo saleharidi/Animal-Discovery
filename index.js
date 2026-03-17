@@ -80,7 +80,7 @@ const Facts = [
     "Giraffes only need 5 to 30 minutes of sleep in a 24-hour period."
 ]
 
-const imgs = ['lion1.webp', 'lion2.jpg', 'lion3.webp', 'lion4.jpg', 'tiger1.jpg', 'tiger2.webp', 'tiger3.jpg', 'tiger4.jpg', 'jauger1.webp', 'jauger2.webp', 'jauger3.jpg', 'jauger4.jpg', 'redpanda1.avif', 'redpanda2.avif', 'redpanda3.webp', 'redpanda4.jpg', 'fox1.jpg', 'fox2.webp', 'fox3.jpg', 'fox4.jpg',]
+const imgs = ['lion1.webp', 'lion2.jpg', 'lion3.webp', 'lion4.jpg', 'tiger1.jpg', 'tiger2.webp', 'tiger3.jpg', 'tiger4.jpg', 'jauger1.webp', 'jauger2.webp', 'jauger3.jpg', 'jauger4.jpg', 'redpanda1.avif', 'redpanda2.avif', 'redpanda3.webp', 'redpanda4.jpg', 'fox1.jpg', 'fox2.webp', 'fox3.jpg', 'fox4.jpg', 'owl1.jpg', 'owl2.jpg', 'owl3.avif', 'owl4.jpg', 'horse1.png', 'horse2.jpg', 'horse3.webp', 'horse1.jpg',]
 
 function heroAnimal() {
 

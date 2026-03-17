@@ -82,6 +82,7 @@ label {
     padding: 5px 20px 5px 20px;
     border-radius: 10px;
     box-shadow: 0 1px 5px 1px black;
+    -webkit-text-stroke: 0.5px var(--sec-color);
     transition: 0.3s ease-in-out;
 }
 
