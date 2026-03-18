@@ -1,3 +1,4 @@
+
 // NAVBAR SCROOL EFFECT 
 
 window.addEventListener('scroll', () => {

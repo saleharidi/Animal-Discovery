@@ -162,7 +162,7 @@ let animal = {
 const searchBar = document.querySelector(".search-bar")
 
 searchBar.addEventListener('click', () => {
-    alert('PLEASE USE SCIENTIFIC NAME')
+    alert('PLEASE USE THE SCIENTIFIC NAME')
 
 })
 
