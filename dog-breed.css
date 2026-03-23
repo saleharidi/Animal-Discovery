@@ -57,6 +57,7 @@ input:checked~.input-style {
 
 input:checked~.input-text {
     color: var(--sec-color);
+    -webkit-text-stroke: 0.5px var(--sec-color);
 }
 
 label {
